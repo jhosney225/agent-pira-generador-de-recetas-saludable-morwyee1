@@ -1,0 +1,6 @@
+{
+  "name": "agent-pira-generador-de-recetas-saludable-morwyee1",
+  "version": "1.0.0",
+  "description": "Proyecto de Pira [Gen23]: generador de recetas saludables con calorias",
+  "main": "index.js"
+}
